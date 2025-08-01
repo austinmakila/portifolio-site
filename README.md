@@ -1,4 +1,4 @@
-# portifolio-site
+# Portifolio-site
 ## Austin Makila's Personal Portfolio website
 Welcome to my personal portfolio website.A fully responsive HTML & CSS site that showcases my background, skills,interest, projects, and how to connect with me. 
 
@@ -36,8 +36,9 @@ Brief descriptions of select projects with links.
 
 ### Contact Form
 
-A simple contact form and direct links to email, WhatsApp, LinkedIn, and GitHub.
-------------------------------------------------------
+A simple contact form and a direct links to email,linkedIn,and Whatsapp.
+
+
 ### Tech Stack
 - HTML5 & CSS3
 - Font Awesome & Ionicons for icons
@@ -48,4 +49,4 @@ A simple contact form and direct links to email, WhatsApp, LinkedIn, and GitHub.
 
 ### How to Use
 Clone the repo:
-   git clone https://github.com/austinmakila/portifolio-site.git
+   git clone https://github.com/austinmakila/Portifolio-site.git
