@@ -4,9 +4,7 @@ Welcome to my personal portfolio website.A fully responsive HTML & CSS site that
 
 ### Live Site :Deployment
 
-Hosted on Vercel: [https://austinmakila.vercel.app](https://austinmakila.vercel.app)  
-
-
+Hosted on Vercel: [https://austine-site.vercel.app/](https://austine-site.vercel.app/)
 
 ### SECTIONS INCLUDED
 -------------------------------------------------------------------
@@ -49,4 +47,4 @@ A simple contact form and a direct links to email,linkedIn,and Whatsapp.
 
 ### How to Use
 Clone the repo:
-   git clone https://github.com/austinmakila/Portifolio-site.git
+   git clone https://github.com/austinmakila/portifolio-site.git
